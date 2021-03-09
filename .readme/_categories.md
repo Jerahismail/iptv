@@ -31,7 +31,6 @@
 		<tr><td align="left">Sport</td><td align="right">133</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/sport.m3u</code></td></tr>
 		<tr><td align="left">Travel</td><td align="right">14</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/travel.m3u</code></td></tr>
 		<tr><td align="left">Weather</td><td align="right">4</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/weather.m3u</code></td></tr>
-		<tr><td align="left">XXX</td><td align="right">70</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/xxx.m3u</code></td></tr>
 		<tr><td align="left">Other</td><td align="right">4517</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/other.m3u</code></td></tr>
 	</tbody>
 </table>
